@@ -2,7 +2,7 @@
 ## Eu sou Fabricio Rondon 😊
 - São Paulo - São Paulo
 - 23 anos
-- Estudando ADS , focando em frontend
+- Estudando ADS
   
  <div>
    <a href="https://github.com/FabricioRondon">
