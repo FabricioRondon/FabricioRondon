@@ -1,7 +1,7 @@
 ## Bem-vindo ao meu perfil 🫡
-## Eu sou Fabricio Rondon 😊
+## Eu sou Fabricio Rondon 
 - São Paulo - São Paulo
-- 23 anos
+- 24 anos
 - Estudando ADS
   
  <div>
