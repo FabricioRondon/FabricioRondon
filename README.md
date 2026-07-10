@@ -1,8 +1,8 @@
-## Bem-vindo ao meu perfil 🫡
+8## Bem-vindo ao meu perfil 🫡
 ## Eu sou Fabricio Rondon 
 - São Paulo - São Paulo
 - 25 anos
-- Estudando ADS
+- Formado em ADS
   
  <div>
    <a href="https://github.com/FabricioRondon">
